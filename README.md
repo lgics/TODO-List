@@ -5,7 +5,7 @@ Don't ask what this is... I need it to be able to remember the stuff I need to d
 
 Common
 ---------------
- * Modify patches names
+
  
 Kernel
 ---------------------
