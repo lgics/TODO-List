@@ -20,6 +20,12 @@ Rashed's Notes:
  * I have made fixes to my personal repo on my PC. Need to remember to try without them first then with them if without them doesn't boot
  * Set CONFIG_KALLSYMS_ALL=y
 
+APK Patcher
+--------------------
+
+ * Finish Trebuchet tab
+ * Present on android forums with tab API
+
 P500
 --------------------
  * Nothing
