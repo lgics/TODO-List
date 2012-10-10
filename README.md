@@ -3,6 +3,7 @@ TO-DO-List
 
 To-do list for lgics projects
 
+Private Notes and Lists:
 
 Rashed's Notes:
 -------------------------
@@ -14,6 +15,8 @@ Bytecode's Notes:
 
  * Make a jb-aokp branch in device and vendor trees
 
+Public TODO:
+
 Common
 ---------------
 
@@ -22,7 +25,6 @@ Common
  
 Kernel
 ---------------------
-Public TODO:
 
  * Fix triple buffering
  * Try this: https://github.com/TheWhisp/android_kernel_samsung_msm7x27/commit/69c2611b21f6dada102026bda3497ef90c4cadc0
