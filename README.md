@@ -7,6 +7,7 @@ Common
 ---------------
 
  * Patches: Make sure that all of the patches work after the 4.1.2 update [NOTE: Check in both the jellybean AND TripleBuffer branches]
+ * Add audio_policy.conf to prebuilts
 
  
 Kernel
