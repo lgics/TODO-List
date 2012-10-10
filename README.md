@@ -27,10 +27,10 @@ Bytecode's Notes:
 
  * Make a jb-aokp branch in device and vendor trees
 
-APK Patcher
---------------------
+# APK Patcher
 
- * Present on android forums with tab API
+ * Work on ROM loading system.
+ * Present on android forums with tab API.
  * Figure out what kind of more tabs to make.
 
 P500
