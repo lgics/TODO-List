@@ -30,8 +30,8 @@ Bytecode's Notes:
 APK Patcher
 --------------------
 
- * Finish Trebuchet tab
  * Present on android forums with tab API
+ * Figure out what kind of more tabs to make.
 
 P500
 --------------------
