@@ -5,6 +5,7 @@ Don't ask what this is... I need it to be able to remember the stuff I need to d
 
 Common
 ---------------
+ *Patches: Make sure that all of the patches work after the 4.1.2 update [NOTE: Check in both the jellybean AND TripleBuffer branches]
 
  
 Kernel
