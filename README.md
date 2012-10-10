@@ -22,6 +22,10 @@ Rashed's Notes:
  * I have made fixes to my personal repo on my PC. Need to remember to try without them first then with them if without them doesn't boot
  * Set CONFIG_KALLSYMS_ALL=y
 
+Bytecode's Notes:
+
+ * Make a jb-aokp branch in device and vendor trees
+
 APK Patcher
 --------------------
 
