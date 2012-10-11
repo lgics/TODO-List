@@ -18,7 +18,6 @@ _To-do list for lgics projects_
 
  * Patches: Make sure that all of the patches work after the 4.1.2 update [NOTE: Check in both the jellybean AND TripleBuffer branches]
 
- 
 ### Kernel
 
  * Fix triple buffering
@@ -43,6 +42,5 @@ _To-do list for lgics projects_
 
 ### APK Patcher
 
- * Work on ROM loading system.
- * Present on XDA Forums with tab API.
+ * Present on XDA Forums with tab API and javadocs.
  * Figure out what kind of more tabs to make.
