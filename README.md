@@ -1,48 +1,47 @@
-TO-DO-List
-==========
+#TO-DO-List
 
-To-do list for lgics projects
+_To-do list for lgics projects_
 
-# Private Notes and Lists
+## Private Notes and Lists
 
-## Rashed's Notes:
+### Rashed's Notes:
 
  * None
 
-## Bytecode's Notes:
+### Bytecode's Notes:
 
  * Make a jb-aokp branch in device and vendor trees
 
-# Public TODO
+## Public TODO
 
-## Common
+### Common
 
  * Patches: Make sure that all of the patches work after the 4.1.2 update [NOTE: Check in both the jellybean AND TripleBuffer branches]
 
  
-## Kernel
+### Kernel
 
  * Fix triple buffering
  * Try this: https://github.com/TheWhisp/android_kernel_samsung_msm7x27/commit/69c2611b21f6dada102026bda3497ef90c4cadc0
  * Fix battery life even more
 
-### P500
+#### P500
 
  * Nothing
 
-### P505
+#### P505
 
  * Nothing
 
-### P506
+#### P506
 
  * Nothing
 
-### P509
+#### P509
 
  * Nothing
 
-## APK Patcher
+### APK Patcher
 
  * Work on ROM loading system.
  * Present on XDA Forums with tab API.
