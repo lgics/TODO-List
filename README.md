@@ -42,5 +42,6 @@ _To-do list for lgics projects_
 
 ### APK Patcher
 
- * Present on XDA Forums with tab API and javadocs.
+ * Present _better_ on XDA Forums with tab API and javadocs.
  * Figure out what kind of more tabs to make.
+  * Working on Fonts tab.
