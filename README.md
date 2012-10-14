@@ -16,33 +16,40 @@ _To-do list for lgics projects_
 
 ### Common
 
- * Patches: Make sure that all of the patches work after the 4.1.2 update [NOTE: Check in both the jellybean AND TripleBuffer branches]
+ * Update overlays
+ * Fix GPS issues
 
 ### Kernel
 
- * Fix triple buffering
+ * Fix the goddamn triple buffering
  * Try this: https://github.com/TheWhisp/android_kernel_samsung_msm7x27/commit/69c2611b21f6dada102026bda3497ef90c4cadc0
  * Fix battery life even more
 
 #### P500
 
- * Nothing
+ * Move global overlays to common folder
 
 #### P505
 
- * Nothing
+ * Move global overlays to common folder
 
 #### P506
 
- * Nothing
+ * Move global overlays to common folder
 
 #### P509
 
- * Nothing
+ * Move global overlays to common folder
 
 ### APK Patcher
 
  * Present _better_ on XDA Forums with tab API and javadocs.
  * Figure out what kind of more tabs to make.
-  * Working on Fonts tab.
-  * Work on Extra Apps tab.
+ * Working on Fonts tab.
+ * Work on Extra Apps tab.
+
+### File Manager
+
+ * Update to use Holo Drawables
+ * Update code to ICS and JB standard
+
