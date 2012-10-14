@@ -45,8 +45,8 @@ _To-do list for lgics projects_
 
  * Present _better_ on XDA Forums with tab API and javadocs.
  * Figure out what kind of more tabs to make.
- * Working on Fonts tab.
- * Work on Extra Apps tab.
+ * Set up server-side (legacydroid.com/apkpatcher)
+ * (1.8) App management tab (will replace Extras tab)
 
 ### File Manager
 
