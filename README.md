@@ -6,7 +6,10 @@ _To-do list for lgics projects_
 
 ### Rashed's Notes:
 
- * None
+ * Test Gallery2 patch that removes all camera componants if using LegacyCamera
+ * Finish Calculator patches for MDPI and LDPI devices
+ * Finish old display compatibility system that should fix triple buffering and copybit/gralloc issues
+ * Add link to forum in the Settings via @KonstaT 's patch
 
 ### Bytecode's Notes:
 
@@ -17,6 +20,7 @@ _To-do list for lgics projects_
 ### Common
 
  * Update overlays
+ * Update headers https://github.com/TheWhisp/android_device_samsung_msm7x27-common/commit/9ab1b742311419a89aed1a3f91b9a8083610aef3
  * Fix GPS issues
 
 ### Kernel
@@ -24,6 +28,7 @@ _To-do list for lgics projects_
  * Fix the goddamn triple buffering
  * Try this: https://github.com/TheWhisp/android_kernel_samsung_msm7x27/commit/69c2611b21f6dada102026bda3497ef90c4cadc0
  * Fix battery life even more
+ * Import more fixes https://www.codeaurora.org/gitweb/quic/la/?p=kernel/msm.git;a=commit;h=a77eca6cee55531e81e21d83b474563f9c143e77
 
 #### P500
 
