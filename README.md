@@ -9,7 +9,7 @@ _To-do list for lgics projects_
  * Test Gallery2 patch that removes all camera componants if using LegacyCamera
  * Finish Calculator patches for MDPI and LDPI devices
  * Finish old display compatibility system that should fix triple buffering and copybit/gralloc issues
- * Add link to forum in the Settings via @KonstaT 's patch
+ * Add link to forum in the Settings via KonstaT's patch
  * Upgrade the kernel
 
 ### Bytecode's Notes:
@@ -30,7 +30,7 @@ _To-do list for lgics projects_
  * Try this: https://github.com/TheWhisp/android_kernel_samsung_msm7x27/commit/69c2611b21f6dada102026bda3497ef90c4cadc0
  * Fix battery life even more
  * Import more fixes https://www.codeaurora.org/gitweb/quic/la/?p=kernel/msm.git;a=commit;h=a77eca6cee55531e81e21d83b474563f9c143e77
- * Import fixes in the kernel commited on Sept. 3 on @KonstaT 's kernel: https://github.com/KonstaT/zte-kernel-msm7x27/commits/jellybean
+ * Import fixes in the kernel commited on Sept. 3 on KonstaT's kernel: https://github.com/KonstaT/zte-kernel-msm7x27/commits/jellybean from https://www.codeaurora.org/gitweb/quic/la/?p=kernel/msm.git
 
 #### P500
 
