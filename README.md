@@ -52,10 +52,10 @@ _To-do list for lgics projects_
 
 ### APK Patcher
 
- * Present _better_ on XDA Forums with tab API and javadocs.
+ * __Set up server-side (legacydroid.com/apkpatcher)__
+ * App management tab (will replace Extras tab)
+ * Some form of menu bar.
  * Figure out what kind of more tabs to make.
- * Set up server-side (legacydroid.com/apkpatcher)
- * (1.8) App management tab (will replace Extras tab)
 
 ### File Manager
 
