@@ -11,6 +11,8 @@ _To-do list for lgics projects_
  * Finish old display compatibility system that should fix triple buffering and copybit/gralloc issues
  * Add link to forum in the Settings via KonstaT's patch
  * Upgrade the kernel
+ * Add old graphics support system to hardware/qcom/display
+ * Add the USES_LEGACY_GRAPHICS CFLAG into the TripleBuffer common
 
 ### Bytecode's Notes:
 
