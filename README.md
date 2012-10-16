@@ -6,7 +6,7 @@ _To-do list for lgics projects_
 
 ### Rashed's Notes:
 
- * Test Gallery2 patch that removes all camera componants if using LegacyCamera
+ * Make Gerrit commit to import LegacyCamera into Gallery2 instead of the standard camera app if building with LegacyCamera. Use this for refrence: https://github.com/KonstaT/android_device_zte_blade/commit/76435377d8f4245e6a4a54d59dd3afe43a28bae7#commitcomment-2002434
  * Finish Calculator patches for MDPI and LDPI devices
  * Finish old display compatibility system that should fix triple buffering and copybit/gralloc issues
  * Add link to forum in the Settings via KonstaT's patch
