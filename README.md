@@ -2,12 +2,16 @@
 
 _To-do list for lgics projects_
 
+_Italics_: Completed but still in testing
+__Bold__: Current project
+Normal: Not yet started
+
 ## Private Notes and Lists
 
 ### Rashed's Notes:
 
- * Make Gerrit commit to import LegacyCamera into Gallery2 instead of the standard camera app if building with LegacyCamera. Use this for refrence: https://github.com/KonstaT/android_device_zte_blade/commit/76435377d8f4245e6a4a54d59dd3afe43a28bae7#commitcomment-2002434
- * Finish Calculator patches for MDPI devices
+ * ___Make Gerrit commit to import LegacyCamera into Gallery2 instead of the standard camera app if building with LegacyCamera.___
+ * __Finish Calculator patches for MDPI devices__
  * _Finish old display compatibility system that should fix triple buffering and copybit/gralloc issues_
  * Add link to forum in the Settings via KonstaT's patch
  * Upgrade the kernel
