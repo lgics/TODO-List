@@ -3,9 +3,11 @@
 _To-do list for lgics projects_
 
 ### Formatting system:
+
  * _Italics_: Completed but still in testing
  * __Bold__: Current project
  * Normal: Not yet started
+ * ___Bold Italics___: Quasi-completion
 
 ## Private Notes and Lists
 
@@ -57,10 +59,15 @@ _To-do list for lgics projects_
 
 ### APK Patcher
 
- * __Set up server-side (legacydroid.com/apkpatcher)__
+ * ___Set up server-side (legacydroid.com/apkpatcher)___
  * App management tab (will replace Extras tab)
- * Some form of menu bar.
- * Figure out what kind of more tabs to make.
+ * Some form of menu bar
+ * Figure out what kind of more tabs to make
+
+#### Launcher
+
+ * __Create launcher__
+ * Distribute patcher within launcher
 
 ### File Manager
 
