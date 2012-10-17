@@ -2,9 +2,10 @@
 
 _To-do list for lgics projects_
 
-_Italics_: Completed but still in testing
-__Bold__: Current project
-Normal: Not yet started
+### Formatting system:
+ * _Italics_: Completed but still in testing
+ * __Bold__: Current project
+ * Normal: Not yet started
 
 ## Private Notes and Lists
 
