@@ -13,13 +13,9 @@ _To-do list for lgics projects_
 
 ### Rashed's Notes:
 
- * ___Make Gerrit commit to import LegacyCamera into Gallery2 instead of the standard camera app if building with LegacyCamera.___
  * __Finish Calculator patches for MDPI devices__
- * _Finish old display compatibility system that should fix triple buffering and copybit/gralloc issues_
  * Add link to forum in the Settings via KonstaT's patch
  * Upgrade the kernel
- * _Add old graphics support system to hardware/qcom/display_
- * _Add the USES_LEGACY_GRAPHICS CFLAG into the TripleBuffer common_
 
 ### Bytecode's Notes:
 
@@ -34,28 +30,27 @@ _To-do list for lgics projects_
 
 ### Kernel
 
- * Fix the goddamn triple buffering
- * Re-enable ZRAM: https://github.com/KonstaT/zte-kernel-msm7x27/commit/700c6f22aa3d04d00da95f6ec666a0e61293b1c6
+ * __Fix the goddamn triple buffering__
  * Try this: https://github.com/TheWhisp/android_kernel_samsung_msm7x27/commit/69c2611b21f6dada102026bda3497ef90c4cadc0
  * Fix battery life even more
- * Import more fixes https://www.codeaurora.org/gitweb/quic/la/?p=kernel/msm.git;a=commit;h=a77eca6cee55531e81e21d83b474563f9c143e77
- * Import fixes in the kernel commited on Sept. 3 on KonstaT's kernel: https://github.com/KonstaT/zte-kernel-msm7x27/commits/jellybean from https://www.codeaurora.org/gitweb/quic/la/?p=kernel/msm.git
+ * __Import more fixes https://www.codeaurora.org/gitweb/quic/la/?p=kernel/msm.git;a=commit;h=a77eca6cee55531e81e21d83b474563f9c143e77__
+ * __Import fixes in the kernel commited on Sept. 3 on KonstaT's kernel: https://github.com/KonstaT/zte-kernel-msm7x27/commits/jellybean from https://www.codeaurora.org/gitweb/quic/la/?p=kernel/msm.git__
 
 #### P500
 
- * Move global overlays to common folder
+ * __Move global overlays to common folder__
 
 #### P505
 
- * Move global overlays to common folder
+ * __Move global overlays to common folder__
 
 #### P506
 
- * Move global overlays to common folder
+ * __Move global overlays to common folder__
 
 #### P509
 
- * Move global overlays to common folder
+ * __Move global overlays to common folder__
 
 ### APK Patcher
 
