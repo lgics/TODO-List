@@ -55,7 +55,9 @@ _To-do list for lgics projects_
 ### APK Patcher
 
  * ___Set up server-side (legacydroid.com/apkpatcher)___
+ * _Fix file separator bug when compressing ROM's._
  * App management tab (will replace Extras tab)
+ * Media tab w/ subtabs.
  * Some form of menu bar
  * Figure out what kind of more tabs to make
 
