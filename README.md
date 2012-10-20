@@ -13,9 +13,12 @@ _To-do list for lgics projects_
 
 ### Rashed's Notes:
 
- * __Finish Calculator patches for MDPI devices__
+ * __Add new Calculator patches for MDPI devices for the new calculator features__
  * Add link to forum in the Settings via KonstaT's patch
  * Upgrade the kernel
+ * LegacyCamera: Move panorama stuff to root to match the standard camera
+ * Port to native CM code: https://github.com/dragonzkiller/android_frameworks_native/commit/813e9ab949201bd0f998e79c7f30721494100ee1
+ * Add to frameworks/av patch: https://github.com/dragonzkiller/android_frameworks_av/commit/7591ff5a926006418d5d6ec6350fe49e6884cfc1
 
 ### Bytecode's Notes:
 
@@ -26,7 +29,7 @@ _To-do list for lgics projects_
 ### Common
 
  * Update overlays
- * Update headers https://github.com/TheWhisp/android_device_samsung_msm7x27-common/commit/9ab1b742311419a89aed1a3f91b9a8083610aef3
+ * Update camera overlay
 
 ### Kernel
 
