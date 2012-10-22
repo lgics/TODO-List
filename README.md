@@ -58,21 +58,7 @@ _To-do list for lgics projects_
 #### P509
 
  Nothing
-
-### APK Patcher
-
- * ___Set up server-side (legacydroid.com/apkpatcher)___
- * _Fix file separator bug when compressing ROM's._
- * App management tab (will replace Extras tab)
- * Media tab w/ subtabs.
- * Some form of menu bar
- * Figure out what kind of more tabs to make
-
-#### Launcher
-
- * __Create launcher__
- * Distribute patcher within launcher
-
+ 
 ### File Manager
 
  * Update to use Holo Drawables
