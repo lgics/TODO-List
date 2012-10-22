@@ -30,6 +30,10 @@ _To-do list for lgics projects_
 
  * Update overlays
  * Update camera overlay
+ * Update QualcommCameraHardware.h
+ * Update power profile
+ * Add CMUpdater overlay
+ * Fix video recording
 
 ### Kernel
 
@@ -41,19 +45,19 @@ _To-do list for lgics projects_
 
 #### P500
 
- * __Move global overlays to common folder__
+ Nothing
 
 #### P505
 
- * __Move global overlays to common folder__
+ Nothing
 
 #### P506
 
- * __Move global overlays to common folder__
+ Nothing
 
 #### P509
 
- * __Move global overlays to common folder__
+ Nothing
 
 ### APK Patcher
 
