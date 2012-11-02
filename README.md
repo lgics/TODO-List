@@ -13,10 +13,8 @@ _To-do list for lgics projects_
 
 ### Rashed's Notes:
 
- * __Add new Calculator patches for MDPI devices for the new calculator features__
- * Add link to forum in the Settings via KonstaT's patch
  * Upgrade the kernel
- * LegacyCamera: Move panorama stuff to root to match the standard camera
+ * __LegacyCamera: Move panorama stuff to root to match the standard camera__
  * Port to native CM code: https://github.com/dragonzkiller/android_frameworks_native/commit/813e9ab949201bd0f998e79c7f30721494100ee1
  * Add to frameworks/av patch: https://github.com/dragonzkiller/android_frameworks_av/commit/7591ff5a926006418d5d6ec6350fe49e6884cfc1
 
@@ -28,6 +26,9 @@ _To-do list for lgics projects_
 
 ### Common
 
+ * Update audio system so it actually: (Use TheWhisp's as an example)
+  1. Works
+  2. Boots
  * Update overlays
  * Update camera overlay
  * Update QualcommCameraHardware.h
