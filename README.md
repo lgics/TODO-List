@@ -14,9 +14,11 @@ _To-do list for lgics projects_
 ### Rashed's Notes:
 
  * Upgrade the kernel
- * __LegacyCamera: Move panorama stuff to root to match the standard camera__
  * Port to native CM code: https://github.com/dragonzkiller/android_frameworks_native/commit/813e9ab949201bd0f998e79c7f30721494100ee1
  * Add to frameworks/av patch: https://github.com/dragonzkiller/android_frameworks_av/commit/7591ff5a926006418d5d6ec6350fe49e6884cfc1
+ * Add rename jellybean branches to jellybean-stable
+ * Add jb-aosp, jb-aokp, jb-miui branches
+ * Fix issues in armv6-vfp and armv6j makefiles
 
 ### Bytecode's Notes:
 
@@ -26,12 +28,9 @@ _To-do list for lgics projects_
 
 ### Common
 
- * Update audio system so it actually: (Use TheWhisp's as an example)
+ * Implement an audio system that actually:
   1. Works
   2. Boots
- * Update overlays
- * Update camera overlay
- * Update QualcommCameraHardware.h
  * Update power profile
  * Add CMUpdater overlay
  * Fix video recording
@@ -59,9 +58,4 @@ _To-do list for lgics projects_
 #### P509
 
  Nothing
- 
-### File Manager
-
- * Update to use Holo Drawables
- * Update code to ICS and JB standard
 
