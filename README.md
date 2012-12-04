@@ -27,11 +27,12 @@ _To-do list for lgics projects_
 
  * Update power profile
  * Add CMUpdater overlay
- * Fix battery life even more
+ * Revert supposed battery fixes
+ * Fix panorama
 
 ### Vendor
 
- * Fix video recording
+ * Nothing
 
 ### Kernel
 
